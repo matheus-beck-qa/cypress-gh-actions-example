@@ -1,6 +1,10 @@
 # Cypress GitHub Actions Integration
 
+[![Youtube Thumbnail](how-to-intregrate-cypress-with-gh-actions-thumbnail.png)](https://youtu.be/yHZ_B1bkZfA?si=zRvU758n4VoZypEo)
+
 This repository is a tutorial on how to integrate Cypress with GitHub Actions for automated end-to-end testing.
+
+
 
 ## About
 Cypress is a popular end-to-end testing framework, and GitHub Actions is a CI/CD platform that allows you to automate workflows directly within your GitHub repository. Integrating the two ensures your tests run manually or automatically on each commit, pull request, or any configured event.
